@@ -168,7 +168,10 @@ body::before {
     box-shadow: 0 6px 20px rgba(58, 46, 43, 0.16);
     transition: background 0.15s ease, transform 0.1s ease, box-shadow 0.15s ease;
 }
-
+.card-link-centro {
+    justify-content: center;
+    text-align: center;
+}
 .card-icone-wrap {
     display: flex;
     align-items: center;
