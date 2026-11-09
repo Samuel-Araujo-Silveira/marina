@@ -173,14 +173,13 @@ body::before {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 70px;
-    height: 70px;
-    border-radius: 8px;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
     background: white;
     flex-shrink: 0;
     box-shadow: 0 6px 20px rgba(58, 46, 43, 0.16);
 }
-
 .card-icone-wrap i {
     font-size: 2rem;
     color: #F5F4EF;
